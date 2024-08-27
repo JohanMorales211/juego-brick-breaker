@@ -1,0 +1,92 @@
+body {
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+}
+
+/* Estilos adicionales para el juego */
+#myCanvas {
+  border: 2px solid #ddd;
+}
+
+/* Estilos para el menú inicial */
+.bg-white {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.shadow-md {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.text-blue-600 {
+  color: #2196f3;
+}
+
+/* Otros estilos que puedes personalizar */
+button {
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* Estilos para el modo oscuro */
+.dark {
+  background-color: #1a202c;
+  color: #e2e8f0;
+}
+
+.dark .bg-white {
+  background-color: #2d3748;
+}
+
+.dark .text-blue-600 {
+  color: #38bdf8;
+}
+
+.dark .bg-gray-300 {
+  background-color: #4a5568;
+}
+
+.dark .text-gray-800 {
+  color: #e2e8f0;
+}
+
+.dark .border-gray-300 {
+  border-color: #4a5568;
+}
+
+.dark .bg-gray-800 {
+  background-color: #1a202c;
+}
+
+.dark .bg-gray-700 {
+  background-color: #2d3748;
+}
+
+.dark select {
+  /* Corrige el texto de los combobox en modo oscuro */
+  color: white;
+  background-color: #4a5568;
+}
+
+.dark .text-green-500 {
+  /* Corrige el texto verde en modo oscuro */
+  color: #22c55e;
+}
+
+.dark .text-red-500 {
+  /* Corrige el texto rojo en modo oscuro */
+  color: #ef4444;
+}
+
+/* Transición para el modo oscuro */
+.transition-colors {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
