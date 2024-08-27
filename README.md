@@ -4,7 +4,7 @@ Este proyecto es una versión moderna del clásico juego **Brick Breaker**, desa
 
 ![Captura de pantalla del juego Brick Breaker](https://a.silvergames.com/j/b/pixel-brick-breaker.jpg) 
 
-**¡Demuestra tu habilidad y destruye todos los ladrillos!** 🚀  Puedes acceder a la aplicación en la nube a través del siguiente enlace: [enlace a tu aplicación en la nube]
+**¡Demuestra tu habilidad y destruye todos los ladrillos!** 🚀  Puedes acceder a la aplicación en la nube a través del siguiente enlace: [https://73tmxc.csb.app/](https://73tmxc.csb.app/)
 
 ### Tecnologías Utilizadas 💻
 
@@ -28,7 +28,7 @@ Este proyecto es una versión moderna del clásico juego **Brick Breaker**, desa
 
 * **Diferentes Niveles de Dificultad:** Ajusta el desafío a tu gusto con tres niveles de dificultad.
 * **Tipos de Ladrillos Personalizables:** Cambia la apariencia visual del juego con diferentes estilos de ladrillos.
-* **Controles Intuitivos:** Juega fácilmente tanto en dispositivos de escritorio como móviles.
+* **Controles Intuitives:** Juega fácilmente tanto en dispositivos de escritorio como móviles.
 * **Diseño Responsivo:** Adaptado para diferentes tamaños de pantalla.
 * **Modo Oscuro:** Juega con un tema oscuro para una experiencia visual más cómoda.
 * **Pantalla de Fin de Juego:** Muestra la puntuación final y ofrece la opción de reiniciar el juego.
