@@ -4,7 +4,7 @@ Este proyecto es una versión moderna del clásico juego **Brick Breaker**, desa
 
 ![Captura de pantalla del juego Brick Breaker](https://static.playhop.com/images/6bf64_3006389_bcbe7/0f72a2759/2a00000181207829_70b2452/7771cd1a0ad3fd05f148_89b203/orig) 
 
-**¡Demuestra tu habilidad y destruye todos los ladrillos!** 🚀  Puedes acceder a la aplicación en la nube a través del siguiente enlace: [Demo]([https://73tmxc.csb.app/](https://73mn5r.csb.app/))
+**¡Demuestra tu habilidad y destruye todos los ladrillos!** 🚀  Puedes acceder a la aplicación en la nube a través del siguiente enlace: [Demo](https://73mn5r.csb.app/) 
 
 ### Tecnologías Utilizadas 💻
 
